@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+hi my name is andrina i lived in vanuatu
+
 <!--
 **andrinamanbit/andrinamanbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
